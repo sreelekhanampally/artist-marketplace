@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Artist Portfolio project",
+  "description": "portfolio project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "test": "start",
+    "start": "nodemon index.js"
   },
-  "author": "sreelekha",
+  "author": "srilekha",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
@@ -15,9 +15,8 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "sqlite3": "^5.1.7"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.1.14",
+    "sqlite3": "^5.1.7",
+    "start": "^5.1.0"
   }
 }

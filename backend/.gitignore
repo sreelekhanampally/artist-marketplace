@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+npm-debug.log*
+package-lock.json
