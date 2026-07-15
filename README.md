@@ -131,17 +131,17 @@ http://localhost:3000
 
 ---
 
-## 📸 Preview
+## 📄 Pages
 
-Add screenshots here.
-
-- Home
-- Artist Portfolio
-- Artwork Details
-- Shopping Cart
-- Checkout
-- Orders
-
+- 🏠 Home
+- 🎨 Artist Portfolio
+- 🖼️ Artwork Details
+- 🔍 Browse Collections
+- 🛒 Shopping Cart
+- 💳 Checkout
+- 📦 Orders
+- 👤 User Profile
+- 🔐 Login & Registration
 ---
 
 ## 🌟 Key Highlights
